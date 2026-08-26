@@ -1,0 +1,7 @@
+{
+  "name": "VELS Home Appliances",
+  "description": "Luxury sales & service showroom website for VELS Home Appliances featuring glassmorphic design, instant ₹500 fixed service booking, live service order & technician GPS tracking, appliance showcase, and Gemini-powered smart diagnostic assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
